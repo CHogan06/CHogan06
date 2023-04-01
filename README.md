@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: here on github    
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In my spare time I like to play music
+- ⚡ Fun fact: In my spare time I like to play music!
 -->
