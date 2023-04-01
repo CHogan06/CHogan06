@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+-->
+
+
 - 🔭 I’m currently working on my techelevator prework!
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on anything I can help on
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here on github    
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my spare time I like to play music!
--->
