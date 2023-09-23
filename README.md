@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my techelevator prework!
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently working my way through the tech elevator curriculum!
+- 🌱 I’m currently learning html & css
 - 👯 I’m looking to collaborate on anything I can help on
 - 🤔 I’m looking for help with everything, it's all new to me
 - 💬 Ask me about anything
